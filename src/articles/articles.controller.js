@@ -2,7 +2,6 @@ const service = require("./articles.service");
 const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
 
 function hasData(req, res, next) {
-  req.log.trace("hasData");
   if (req.body.data) {
     return next();
   }
