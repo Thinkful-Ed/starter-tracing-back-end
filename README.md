@@ -1,10 +1,12 @@
-# Traving Backend Application
+# Tracing Backend Application
 
 This starter code for the "Connecting it all: Tracing Errors" checkpoint in the Thinkful curriculum.
 
 ## Existing files
 
-As you work through the Node.js, Express & PostgreSQL module, you will be writing code that allows your controllers to connect to and query your PostgreSQL database via [Knex](http://knexjs.org/). The table below describes the files and folders in the starter code:
+As you work through the "Connecting it all: Tracing Errors" checkpoint, you will be writing code traces requests through your server. 
+
+The table below describes the files and folders in the starter code:
 
 | Folder/file path | Description                                                                      |
 | ---------------- | -------------------------------------------------------------------------------- | |
